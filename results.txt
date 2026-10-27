@@ -1,0 +1,72 @@
+Problem: Triangle 1
+Result: 1.5420989685426680e-02
+Refer.: 1.5420989685426682e-02
+Total number of evaluations: 65229725
+Problem: Triangle 2
+Result: 9.2489103207133699e-03
+Refer.: 9.2489103207133699e-03
+Total number of evaluations: 66454634
+Problem: Triangle 3
+Result: 5.3636363075423607e-05
+Refer.: 5.3636363075423601e-05
+Total number of evaluations: 66354781
+Problem: Triangle 4
+Result: 2.8206297586077672e-03
+Refer.: 2.8206297586077667e-03
+Total number of evaluations: 64871471
+Problem: Box 1
+Result: -3.4005008473604465e-11
+Refer.: -3.4005008473604458e-11
+Total number of evaluations: 82121552
+Problem: Box 2
+Result: -2.1981438636707011e-09
+Refer.: -2.1981438636707011e-09
+Total number of evaluations: 79581136
+Problem: Box 3
+Result: -5.9148559407781782e+00
+Refer.: -5.9148559407782004e+00
+Total number of evaluations: 78768061
+Problem: Pentagon 1
+Result: 1.9585377709960803e-11
+Refer.: 1.9585377709960810e-11
+Total number of evaluations: 93600857
+Problem: Pentagon 2
+Result: 2.3427532470686744e-12
+Refer.: 2.3427532470686740e-12
+Total number of evaluations: 96977644
+Problem: Triangle 5
+Result: 3.9847997696028542e-04
+Refer.: 3.9847997696028549e-04
+Imagi.: 4.8774154335541110e-04
+Im.Ref: 4.8774154335541110e-04
+Total number of evaluations: 164347506
+Problem: Triangle 6
+Result: 7.8949736287057560e-05
+Refer.: 7.8949736287057561e-05
+Imagi.: 2.2258948981264372e-05
+Im.Ref: 2.2258948981264375e-05
+Total number of evaluations: 183204250
+Problem: Triangle 7
+Result: 2.7502744387947264e-07
+Refer.: 2.7502744387947350e-07
+Imagi.: 1.4522706831607231e-08
+Im.Ref: 1.4522706831607219e-08
+Total number of evaluations: 196056782
+Problem: Box 4
+Result: 3.4669191413352562e-01
+Refer.: 3.4669191413352413e-01
+Total number of evaluations: 2883120744
+Problem: Box 5
+Result: 8.1029284279864500e-01
+Refer.: 8.1029284279864522e-01
+Total number of evaluations: 3057407913
+Problem: Box 6
+Result: -1.4532452983434587e-02
+Refer.: -1.4532452983434360e-02
+Total number of evaluations: 3969467212
+Problem: Higher order coeffs
+Order 1: -5.7349778469781648e-02
+Ref. O1: -5.7349778469765869e-02
+Order 2: 1.2707120993052531e-01
+Ref. O2: 1.2707120993003210e-01
+Total number of evaluations per order: 38457264704
