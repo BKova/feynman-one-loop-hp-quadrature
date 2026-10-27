@@ -25,10 +25,8 @@ System package installation commands are provided for Ubuntu.
 
 ### 1. Clone the repository
 
-Replace `REPOSITORY_URL` with the repository's clone URL:
-
 ```bash
-git clone REPOSITORY_URL one-loop-quadrature
+git clone https://github.com/BKova/feynman-one-loop-hp-quadrature.git one-loop-quadrature
 cd one-loop-quadrature
 ```
 
