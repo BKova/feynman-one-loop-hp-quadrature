@@ -43,7 +43,8 @@ python -m pip install -r requirements.txt
 ```
 
 Activate the environment again with `source .venv/bin/activate` whenever you
-open a new shell to run the examples.
+open a new shell to run the examples. Note: package `python3-dev` on Ubuntu
+(or distro equivalent) may be required to install `xsum`.
 
 This completes the setup for the `regular`, `threshold`, and
 `higher coefficients` examples.
